@@ -16,7 +16,4 @@
 
 1. Clone the repository using Git Bash/Terminal/GitHub Desktop and open the local reposity in your IDE of choice.
 
-2. Once you have made the changes you want, you can add, commit, and push the changes to the repo using  Git Bash/Terminal/GitHub Desktop.
-
-
-
+2. Once you have made the changes you want, you can add, commit, and push the changes to the repo using Git Bash/Terminal/GitHub Desktop.

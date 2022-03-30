@@ -20,8 +20,6 @@ Examples of HTML tags:
 - An input (text, dropdown, button, etc.) `<input>`
 - And the whole body of the page `<body>`
 
-<hr>
-
 ## What is CSS?
 
 CSS stands for Cascading Style Sheets.
@@ -50,8 +48,6 @@ Access by `class`: (`.`)
 }
 ```
 
-<hr>
-
 ## What is JavaScript?
 
 Now, if HTML is the markup language and CSS is the design language, then JavaScript is the programming language.
@@ -61,8 +57,8 @@ You can program your web page or individual elements to react a certain way and 
 You can program actions, conditions, calculations, network requests, concurrent tasks and many other kinds of instructions.
 
 You can access any elements through the Document Object Model API (DOM) and make them change however you want them to.
-  
-<hr>
+
+<br>
 
 # Beyond the Basics
 

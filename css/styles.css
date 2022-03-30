@@ -51,6 +51,14 @@ body {
   float: right;
   margin: 18px;
 }
+@media (max-width: 600px) {
+  #navbar {
+    text-align: center;
+  }
+  #links {
+    display: none;
+  }
+}
 
 #links a {
   color: #3277b3;
@@ -111,7 +119,7 @@ img {
   margin: 20px;
   display: inline-block;
   width: 600px;
-  max-width: 90%;
+  max-width: 80%;
   vertical-align: top;
   text-align: left;
   background-color: #1d2026;
